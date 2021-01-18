@@ -1,6 +1,7 @@
 # Income-Classification<br/>
 
-• Table of Contents<br/>
+Table of Contents<br/>
+<br/>
 • Get the Data<br/>
 • Data Cleaning<br/>
 • Exploratory Data Analysis<br/>
