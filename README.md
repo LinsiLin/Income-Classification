@@ -7,7 +7,7 @@
 • Data Preprocessing<br/>
 • Feature Selection and Clustering<br/>
 • Classifiers<br/>
-  • Logistic Regression
+&nbsp..   • Logistic Regression
   • Decision Tree<br/>
   • Random Forests<br/>
   • Support Vector Classification<br/>
