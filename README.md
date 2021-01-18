@@ -1,26 +1,24 @@
-# Income-Classification
+# Income-Classification<br/>
 
-![alt text](https://github.com/LinsiLin/Income-Classification/blob/main/portfolio-3.jpg)
-
-• Table of Contents
-• Get the Data
-• Data Cleaning
-• Exploratory Data Analysis
-• Data Preprocessing
-• Feature Selection and Clustering
-• Classifiers
-  • Logistic Regression
-  • Decision Tree
-  • Random Forests
-  • Support Vector Classification
-  • K-nearest Neighbors
-  • Gaussian Naive Bayes
-  • Quadratic Discriminant Analysis
-  • AdaBoost
-  • Gradient Boosting
-  • Multi-layer Perceptron Classifier
+• Table of Contents<br/>
+• Get the Data<br/>
+• Data Cleaning<br/>
+• Exploratory Data Analysis<br/>
+• Data Preprocessing<br/>
+• Feature Selection and Clustering<br/>
+• Classifiers<br/>
+  • Logistic Regression<br/>
+  • Decision Tree<br/>
+  • Random Forests<br/>
+  • Support Vector Classification<br/>
+  • K-nearest Neighbors<br/>
+  • Gaussian Naive Bayes<br/>
+  • Quadratic Discriminant Analysis<br/>
+  • AdaBoost<br/>
+  • Gradient Boosting<br/>
+  • Multi-layer Perceptron Classifier<br/>
   
-Imbalanced Dataset
+Imbalanced Dataset<br/>
 Many learning algorithms were designed assuming well-balanced class distributions, i.e. no significant differences in class prior probabilities. However, this is not always the case in real world data since one class might be represented by a large number of examples, while the others are represented by only a few, and this is the case for this dataset. The target variable "income" has imbalanced distribution with about 25% being '>50K" and 75% being "<=50K".
 
 The solution to the imbalanced data are mainly two types: data level methods and the algorithmic level methods.
