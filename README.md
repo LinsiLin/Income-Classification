@@ -9,14 +9,14 @@
 • Classifiers<br/>
 1. Logistic Regression<br/>
 2. Decision Tree<br/>
-  • Random Forests<br/>
-  • Support Vector Classification<br/>
-  • K-nearest Neighbors<br/>
-  • Gaussian Naive Bayes<br/>
-  • Quadratic Discriminant Analysis<br/>
-  • AdaBoost<br/>
-  • Gradient Boosting<br/>
-  • Multi-layer Perceptron Classifier<br/>
+3. Random Forests<br/>
+4. Support Vector Classification<br/>
+5. K-nearest Neighbors<br/>
+6. Gaussian Naive Bayes<br/>
+7. Quadratic Discriminant Analysis<br/>
+8. AdaBoost<br/>
+9. Gradient Boosting<br/>
+10.Multi-layer Perceptron Classifier<br/>
   
 Imbalanced Dataset<br/>
 Many learning algorithms were designed assuming well-balanced class distributions, i.e. no significant differences in class prior probabilities. However, this is not always the case in real world data since one class might be represented by a large number of examples, while the others are represented by only a few, and this is the case for this dataset. The target variable "income" has imbalanced distribution with about 25% being '>50K" and 75% being "<=50K".
@@ -39,5 +39,6 @@ It aims to balance class distribution through the random elimination of majority
 
 Undersampling(heuristic method)<br/>
 Some heuristic under-sampling methods include NearMiss,Condensed Nearest Neighbor Rule,Tomek links, One-sided selection, Neighborhood Cleaning Rule. I implemented NearMiss, Tomek links and Neighborhood Cleaning Rule in this notebook.<br/>
+
 Algorithmic level methods:<br/>
 Idea: adapting existing algorithms and techniques to the especial characteristics of imbalanced data. These proposals include cost-sensitive learning, one-class classifiers, and ensembles of classifiers, among others.
