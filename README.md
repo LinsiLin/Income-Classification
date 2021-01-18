@@ -1,6 +1,6 @@
 # Income-Classification<br/>
 
-Table of Contents<br/>
+**Table of Contents<br/>**
 <br/>
 • Get the Data<br/>
 • Data Cleaning<br/>
@@ -17,7 +17,7 @@ Table of Contents<br/>
 7. Quadratic Discriminant Analysis<br/>
 8. AdaBoost<br/>
 9. Gradient Boosting<br/>
-10.Multi-layer Perceptron Classifier<br/>
+10. Multi-layer Perceptron Classifier<br/>
   
 Imbalanced Dataset<br/>
 Many learning algorithms were designed assuming well-balanced class distributions, i.e. no significant differences in class prior probabilities. However, this is not always the case in real world data since one class might be represented by a large number of examples, while the others are represented by only a few, and this is the case for this dataset. The target variable "income" has imbalanced distribution with about 25% being '>50K" and 75% being "<=50K".
