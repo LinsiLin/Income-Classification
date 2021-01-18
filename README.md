@@ -7,7 +7,7 @@ Table of Contents<br/>
 • Exploratory Data Analysis<br/>
 • Data Preprocessing<br/>
 • Feature Selection and Clustering<br/>
-• Classifiers<br/>
+• Classifiers
 1. Logistic Regression<br/>
 2. Decision Tree<br/>
 3. Random Forests<br/>
