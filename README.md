@@ -1,7 +1,7 @@
 # Income-Classification<br/>
+The goal of this project is to predict people's income categories, either '>50K' or '<=50K' based on various demographic attributes.<br/>
 
 **Table of Contents<br/>**
-<br/>
 • Get the Data<br/>
 • Data Cleaning<br/>
 • Exploratory Data Analysis<br/>
